@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: ZP
+Class-Path: lib/org.eclipse.swt.win32.win32.x86_64-4.3.jar lib/log4j-1
+ .2.17.jar lib/guava-18.0.jar lib/eagles-commons-5.0.0.jar
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_60
+Main-Class: com.adcc.APP
+
